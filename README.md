@@ -1,2 +1,12 @@
-# popup-notification
-This project features a dynamic and interactive money popup message created using HTML, CSS, and JavaScript. It's a fun and engaging way to notify users of a special event or achievement!
+# Popup Notification Example
+
+![Popup Notification](popup.png)
+
+This is a simple example of creating a popup notification on a website using HTML, CSS, and JavaScript. The popup displays a welcome message and provides a "Okay" button to dismiss it.
+
+## Usage
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/username/repository.git
